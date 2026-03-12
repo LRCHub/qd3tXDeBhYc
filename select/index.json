@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ディザスター",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T17:04:44.629097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レシピ・フォー・ディザスター",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/01_レシピ・フォー・ディザスター_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ア・ナチュラル・ディザスター",
+      "artist": "アナセマ",
+      "has_synced": false,
+      "path": "select/02_ア・ナチュラル・ディザスター_アナセマ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ディザスター",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_ディザスター_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディザスター",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_ディザスター_amazarashi.txt"
+    }
+  ]
+}
